@@ -1,5 +1,5 @@
 // // Consultation APIs (Postman folder 3 & 4)
-// const BASE_URL = process.env.NEXT_PUBLIC_API_URL || "http://localhost:8000/api/v1";
+// const BASE_URL = process.env.NEXT_PUBLIC_API_URL || "/api/v1";
 
 // /* -------------------------------------------------------------------------- */
 // /*  ADMIN TOKEN FINDER                                                         */
@@ -172,7 +172,7 @@
 
 
 // Consultation APIs (Postman folder 3 & 4)
-const BASE_URL = process.env.NEXT_PUBLIC_API_URL || "http://localhost:8000/api/v1";
+const BASE_URL = process.env.NEXT_PUBLIC_API_URL || "/api/v1";
 
 /* -------------------------------------------------------------------------- */
 /*  ADMIN TOKEN FINDER                                                         */
