@@ -157,7 +157,7 @@
 //       // Janki intro video (hero, right side)
 //       video: {
 //         enabled: true,
-//         src: "/assets/videos/inner being (1).mp4",
+//         src: "/assets/videos/janki.mp4",
 //         poster: "",
 //         // label: "Meet Janki Ravani",
 //         loop: true,
@@ -1989,7 +1989,7 @@ export const siteData = {
       // Janki intro video (hero, right side)
       video: {
         enabled: true,
-        src: "/assets/videos/inner being (1).mp4",
+        src: "/assets/videos/janki.mp4",
         poster: "",
         loop: true,
         muted: true,
